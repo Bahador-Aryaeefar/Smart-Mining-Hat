@@ -2,6 +2,8 @@
 
 A **wearable safety device** designed for miners, built with **ESP32** and various environmental sensors, to monitor critical factors such as gas concentration, temperature, humidity, pressure, and altitude in real-time.
 
+![photo_2025-04-25_11-42-48](https://github.com/user-attachments/assets/93e6997e-6375-4913-aa8b-f488ea41c643)
+
 ## Features
 
 - 📡 **Wi-Fi hotspot** and **web server** setup for local communication with connected users.
